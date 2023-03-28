@@ -8,7 +8,7 @@ To create a visually appealing and consistent design across all pages and compon
 
 One of the main features of this application would be its integration with RapidAPI. This API offers a wide range of music-related information, such as metadata, information about artists, and music streaming services, which the application can leverage to provide users with a more personalized discovery experience.
 
-### Project Concept and Design
+## Project Concept and Design
 
 ![Colors](https://user-images.githubusercontent.com/57842220/228262836-a1b0e5c1-e631-400a-ba20-ddd47b794817.png)
 ![Light and Dark Mode](https://user-images.githubusercontent.com/57842220/228262480-f49d226b-cd5e-491f-bdc3-8352bd90f519.png)
