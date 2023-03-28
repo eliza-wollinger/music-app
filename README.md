@@ -39,7 +39,7 @@ To achieve this, I carefully selected color schemes to ensure that the app's des
 6. **Song Detail Page** - Users can access detailed information about a specific song, including its music video, lyrics, and a list of similar songs. This feature helps users discover new music based on their preferences and explore different genres and artists.
 
 
-## ⚙️ Technologies
+## ⚙️ Technologies and Setup
 
 ### System Requirements
 
