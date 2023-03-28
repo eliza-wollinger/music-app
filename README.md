@@ -8,7 +8,7 @@ To create a visually appealing and consistent design across all pages and compon
 
 One of the main features of this application would be its integration with RapidAPI. This API offers a wide range of music-related information, such as metadata, information about artists, and music streaming services, which the application can leverage to provide users with a more personalized discovery experience.
 
-## Project Concept and Design
+## ✏️ Project Concept and Design
 
 The music web app design process started with a thorough search of the top music players on the market, including Spotify, Apple Music, and SoundCloud. This research helped identify strengths and weaknesses in terms of usability.
 
@@ -37,6 +37,79 @@ To achieve this, I carefully selected color schemes to ensure that the app's des
 5. **Artist Detail Page** - Users can access additional information about an artist, including their biography, discography, and all of their most popular songs. This feature helps users discover more about their favorite artists and explore their music in greater depth.
 
 6. **Song Detail Page** - Users can access detailed information about a specific song, including its music video, lyrics, and a list of similar songs. This feature helps users discover new music based on their preferences and explore different genres and artists.
+
+
+## ⚙️ Technologies
+
+### System Requirements
+
+To get started with development, you need to install few tools
+
+1. **git**
+   
+   `git` version 2.13.1 or higher. Download [git](https://git-scm.com/downloads) if you don't have it already.
+
+   To check your version of git, run:
+
+   ```shell
+    git --version
+   ```
+
+2. **node**
+   
+   `node` version 16.15.1 or higher. Download [node](https://nodejs.org/en/download/) if you don't have it already.
+
+   To check your version of node, run:
+
+   ```shell
+    node --version
+   ```
+
+3. **npm**
+  
+   `npm` version 5.6.1 or higher. You will have it after you install node.
+
+   To check your version of npm, run:
+
+   ```shell
+    npm --version
+   ```
+
+### Setup
+
+To set up a development environment, please follow these steps:
+
+1. **Clone the repo**
+
+   ```shell
+    git clone https://github.com/eliza-wollinger/music-app.git
+   ```
+
+2. **Change directory to the project directory**
+
+    ```shell
+    cd music-app
+    ```
+
+3. **Install the dependencies**
+   
+    ```shell
+     npm install
+    ```
+
+    If you get an error, please check the console for more information.
+
+    If you don't get an error, you are ready to start development.
+
+4. **Run the app**
+   
+    ```shell
+    npm run dev
+    ```
+
+    Project will be running in the browser.
+
+    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
