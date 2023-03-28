@@ -16,8 +16,6 @@ I then created low fidelity wireframes as starter examples. These wireframes foc
 
 Using Figma I developed high fidelity prototypes that incorporated visual elements such as typography, color schemes and graphics.
 
-I paid close attention to every aspect of the design process, from layout and functionality to color scheme and typography, to ensure a seamless and enjoyable user experience.
-
 ![Colors](https://user-images.githubusercontent.com/57842220/228262836-a1b0e5c1-e631-400a-ba20-ddd47b794817.png)
 
 In addition to the design considerations mentioned above, I also considered the importance of light and dark modes in the application's design. Users have different preferences when it comes to the brightness of their screens, and the ability to switch between light and dark modes can greatly improve the user experience.
